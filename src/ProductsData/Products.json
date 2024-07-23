@@ -1,0 +1,293 @@
+{
+    "shoes": [
+      {
+        "id": 1,
+        "brand": "Nike",
+        "model": "Air Jordan 1 Low",
+        "category": "Sneakers",
+        "price": 120.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9badfb0d-54b0-4c40-92b5-b6b24c4dff47/air-jordan-1-low-shoes-6Q1tFM.png",
+        "images": [
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9badfb0d-54b0-4c40-92b5-b6b24c4dff47/air-jordan-1-low-shoes-6Q1tFM.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/833abe34-f490-4fe8-8c84-11a4cc5ab56a/air-jordan-1-low-shoes-6Q1tFM.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e834bd9a-e9c3-4612-aa72-f48d30617666/air-jordan-1-low-shoes-6Q1tFM.png",
+          "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/1f8d63e7-ed86-4c44-b187-dddf020b4de5/air-jordan-1-low-shoes-6Q1tFM.png"
+        ]
+      },
+      {
+        "id": 2,
+        "brand": "Nike",
+        "model": "Nike Court Royale 2 Low",
+        "category": "Sneakers",
+        "price": 110.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9badfb0d-54b0-4c40-92b5-b6b24c4dff47/air-jordan-1-low-shoes-6Q1tFM.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/23da5e9b-6bee-47eb-8b1d-259ac3b13cfd/court-royale-2-low-shoe-fjdwrF.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9a7abc18-c745-4db9-ab5e-a53783a0acfa/court-royale-2-low-shoe-fjdwrF.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c3cc352a-663b-45c0-a2d0-882e57c66ae7/court-royale-2-low-shoe-fjdwrF.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/82e3f349-f65c-40ee-8238-6c9f196684b8/court-royale-2-low-shoe-fjdwrF.png"
+      ]
+      },{
+        "id": 3,
+        "brand": "Nike",
+        "model": "Nike Downshifter 13",
+        "category": "Running",
+        "price": 180.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/89963238-7a6a-48cc-a2fe-4e95dd03fd89/downshifter-13-road-running-shoes-4Gw85J.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/89963238-7a6a-48cc-a2fe-4e95dd03fd89/downshifter-13-road-running-shoes-4Gw85J.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/82dae4fb-19a4-4d5a-b7aa-3a54a49b82ed/downshifter-13-road-running-shoes-4Gw85J.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/4ea483ae-e813-4d35-98a0-6391ee4ce4b8/downshifter-13-road-running-shoes-4Gw85J.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/a46a46a9-ba0d-49a3-9594-881253d07e63/downshifter-13-road-running-shoes-4Gw85J.png"
+      ]
+      },
+      {
+        "id": 4,
+        "brand": "Nike",
+        "model": "Nike Vaporfly 3",
+        "category": "Running",
+        "price": 140.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/89963238-7a6a-48cc-a2fe-4e95dd03fd89/downshifter-13-road-running-shoes-4Gw85J.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1dab2f7a-bbee-4c23-b899-8e24a356763d/vaporfly-3-road-racing-shoes-xsDgvM.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/f1cb61d5-29fd-41a5-b669-e51eaa08c9f3/vaporfly-3-road-racing-shoes-xsDgvM.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b0a1ce54-2bd8-411b-9bb5-a3de0b6d767c/vaporfly-3-road-racing-shoes-xsDgvM.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/35062a91-6b5e-4e86-88e7-1a7af2d2dd8b/vaporfly-3-road-racing-shoes-xsDgvM.png"
+      ]
+      },
+      {
+        "id": 5,
+        "brand": "Nike",
+        "model": "Air Jordan 1 Retro High OG",
+        "category": "Jordan",
+        "price": 220.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bab11a0e-6ccd-4b17-a3ec-db5eb94d5e8c/air-jordan-1-retro-high-og-shoes-Pz6fZ9.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bab11a0e-6ccd-4b17-a3ec-db5eb94d5e8c/air-jordan-1-retro-high-og-shoes-Pz6fZ9.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/94b72044-b254-42cd-bfc9-7f42688fc3e2/air-jordan-1-retro-high-og-shoes-Pz6fZ9.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/88fc407e-703b-4fb8-97ff-2c397e9a0ee5/air-jordan-1-retro-high-og-shoes-Pz6fZ9.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/cc23898a-e59e-45e6-a539-f197f3d29599/air-jordan-1-retro-high-og-shoes-Pz6fZ9.png"
+      ]
+      },
+      {
+        "id": 6,
+        "brand": "Nike",
+        "model": "Jumpman MVP",
+        "category": "Jordan",
+        "price": 130.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/bab11a0e-6ccd-4b17-a3ec-db5eb94d5e8c/air-jordan-1-retro-high-og-shoes-Pz6fZ9.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8a9c6c3e-4bc5-4909-9709-3911bc78a347/jumpman-mvp-shoes-JV1HCs.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/82ccbb84-d5d4-4271-8586-992370fbd0ac/jumpman-mvp-shoes-JV1HCs.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7b887396-1457-496f-a499-1c2b22466ac4/jumpman-mvp-shoes-JV1HCs.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5f497fc2-cde0-409b-9cc8-816e54f2345a/jumpman-mvp-shoes-JV1HCs.png"
+      ]
+      },
+      {
+        "id": 7,
+        "brand": "Nike",
+        "model": "Nike Metcon 9",
+        "category": "Gym and Training",
+        "price": 177.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2a77f8f6-8d95-4498-97c4-6f0b1fe5a46a/metcon-9-workout-shoes-ldMsxB.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2a77f8f6-8d95-4498-97c4-6f0b1fe5a46a/metcon-9-workout-shoes-ldMsxB.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2de341e1-491f-42c3-a978-afdf0fb428ac/metcon-9-workout-shoes-ldMsxB.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d6a40a0b-53c4-414e-acda-a32cb1afd0f0/metcon-9-workout-shoes-ldMsxB.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/9fd80c12-4cac-4985-b9fd-d5cf44f8e8f1/metcon-9-workout-shoes-ldMsxB.png"
+      ]
+      },
+      {
+        "id": 8,
+        "brand": "Nike",
+        "model": "Nike Vaporfly 3",
+        "category": "Gym and Training",
+        "price": 140.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2a77f8f6-8d95-4498-97c4-6f0b1fe5a46a/metcon-9-workout-shoes-ldMsxB.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/c95a8a1b-8e71-487d-9407-a9b181fc7caa/air-max-alpha-trainer-5-workout-shoes-x8Jzj6.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/935142b1-f3f2-4f18-b1ab-b1b2b44c2282/air-max-alpha-trainer-5-workout-shoes-x8Jzj6.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/065d98a9-2a89-4be7-90f5-2cdbb4318963/air-max-alpha-trainer-5-workout-shoes-x8Jzj6.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1da498b2-1044-463b-9084-e25bb764377b/air-max-alpha-trainer-5-workout-shoes-x8Jzj6.png"
+      ]
+      },
+      {
+        "id": 9,
+        "brand": "Nike",
+        "model": "Tatum 2 PF",
+        "category": "Basketball Shoes",
+        "price": 108.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6f29432a-e469-47f0-ac54-28cd0e6a7909/tatum-2-pf-basketball-shoes-8fp79D.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6f29432a-e469-47f0-ac54-28cd0e6a7909/tatum-2-pf-basketball-shoes-8fp79D.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/37a6d476-4c54-4185-9962-55e6d629e92d/tatum-2-pf-basketball-shoes-8fp79D.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/00d827a3-79c3-4497-afd7-3b2f405c5464/tatum-2-pf-basketball-shoes-8fp79D.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/63abd471-f2e1-472a-9e2d-2ab5313fa314/tatum-2-pf-basketball-shoes-8fp79D.png"
+      ]
+      },
+
+      {
+        "id": 10,
+        "brand": "Nike",
+        "model": "Nike G.T. Hustle 3 EP",
+        "category": "Basketball Shoes",
+        "price": 99.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/6f29432a-e469-47f0-ac54-28cd0e6a7909/tatum-2-pf-basketball-shoes-8fp79D.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fcb3546d-f3aa-4374-8a29-a0af4c21d86b/tatum-2-sidewalk-chalk-pf-basketball-shoes-SjC3nc.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/270af784-e2a9-4768-a4a6-c9b99afddd2b/tatum-2-sidewalk-chalk-pf-basketball-shoes-SjC3nc.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/43911b9e-c7bd-40d9-b5e6-6e03b4a9787a/tatum-2-sidewalk-chalk-pf-basketball-shoes-SjC3nc.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e4177b20-2e3c-4ca1-86d9-2fd370f184b5/tatum-2-sidewalk-chalk-pf-basketball-shoes-SjC3nc.png"
+      ]
+      },
+      {
+        "id": 11,
+        "brand": "Nike",
+        "model": "Nike Phantom GX 2 Elite",
+        "category": "Football",
+        "price": 89.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/15a717ab-b02e-43ad-814e-24eb4fd9e487/phantom-luna-2-elite-se-fg-high-top-football-boot-BNwB4T.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/15a717ab-b02e-43ad-814e-24eb4fd9e487/phantom-luna-2-elite-se-fg-high-top-football-boot-BNwB4T.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/2aefc25d-cd46-4852-b3da-dc2a47504340/phantom-luna-2-elite-se-fg-high-top-football-boot-BNwB4T.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/679e66ce-9081-4d18-b9fe-492fec7a249b/phantom-luna-2-elite-se-fg-high-top-football-boot-BNwB4T.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b723fa1c-2f79-42ec-be57-a589ba26f8e2/phantom-luna-2-elite-se-fg-high-top-football-boot-BNwB4T.png"
+      ]
+      },
+      {
+        "id": 12,
+        "brand": "Nike",
+        "model": "Nike Mercurial Vapor 15 Elite",
+        "category": "Football",
+        "price": 76.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/15a717ab-b02e-43ad-814e-24eb4fd9e487/phantom-luna-2-elite-se-fg-high-top-football-boot-BNwB4T.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1af865ac-7c24-4556-b57d-0b14ca90ccb5/mercurial-vapor-15-elite-fg-low-top-football-boot-nt9B0G.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6ff458e3-4bb6-46c7-b6c0-787362accefd/mercurial-vapor-15-elite-fg-low-top-football-boot-nt9B0G.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d2e5b180-4f98-4c5f-89d0-eb79008b4519/mercurial-vapor-15-elite-fg-low-top-football-boot-nt9B0G.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/37c14276-42ba-4a13-a3ed-ec570628b295/mercurial-vapor-15-elite-fg-low-top-football-boot-nt9B0G.png"
+      ]
+      },
+      {
+        "id": 13,
+        "brand": "Nike",
+        "model": "Nike Offcourt",
+        "category": "Slides",
+        "price": 45.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c2a2424b-4d35-490d-9d67-55c2c929e405/jordan-jumpman-slides-2C5ffD.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8636f9b6-6557-4065-8ebd-59e6d1673573/offcourt-slides-ZBxx9j.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/63b3e7a5-78e2-45f0-841e-042fa9e9fa6d/offcourt-slides-ZBxx9j.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/6edd9c46-3186-4fc8-a101-5a1e9c1a390c/offcourt-slides-ZBxx9j.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/e44e94c8-976f-410a-9a9a-c587d35a9144/offcourt-slides-ZBxx9j.png"
+      ]
+      },
+      {
+        "id": 14,
+        "brand": "Nike",
+        "model": "Jordan Jumpman",
+        "category": "Slides",
+        "price": 50.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c2a2424b-4d35-490d-9d67-55c2c929e405/jordan-jumpman-slides-2C5ffD.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c2a2424b-4d35-490d-9d67-55c2c929e405/jordan-jumpman-slides-2C5ffD.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2ba8dce4-9ffd-4951-b7fb-040afd260df1/jordan-jumpman-slides-2C5ffD.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5b1bbe5b-9c48-4db3-9ad6-7bdb598f6e69/jordan-jumpman-slides-2C5ffD.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/551a6ddf-b119-4259-a93f-762e89b1ab0d/jordan-jumpman-slides-2C5ffD.png"
+      ]
+      },
+      {
+        "id": 15,
+        "brand": "Nike",
+        "model": "Nike Calm",
+        "category": "Slides",
+        "price": 99.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c2a2424b-4d35-490d-9d67-55c2c929e405/jordan-jumpman-slides-2C5ffD.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/02984061-bb89-42a6-b125-a57327614264/calm-sandals-t1BKK6.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0e6d62ec-65e0-4957-bdd5-54090db1827b/calm-sandals-t1BKK6.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/683b1f26-b41d-4e62-9862-d811d61ddaa9/calm-sandals-t1BKK6.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0745e583-7409-4944-ad98-d0491d9b24c3/calm-sandals-t1BKK6.png"
+      ]
+      },
+      {
+        "id": 16,
+        "brand": "Nike",
+        "model": "Jordan Roam",
+        "category": "Slides",
+        "price": 56.00,
+        "availability": true,
+        "release_date": "2023-03-15",
+        "ratings": 4.5,
+        "reviews": 150,
+        "categoryImageUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/c2a2424b-4d35-490d-9d67-55c2c929e405/jordan-jumpman-slides-2C5ffD.png",
+      "images": [
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/7dd5d00b-b588-485b-9e30-147cd30ade3a/jordan-roam-slides-XsQbqX.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/04f3bb72-93f8-4e8e-bd1f-853737ab4ac0/jordan-roam-slides-XsQbqX.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/04153525-faab-4f68-b0b6-dc45c9f2aeb9/jordan-roam-slides-XsQbqX.png",
+        "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0baf861e-88f3-463d-9d18-938edef16d4e/jordan-roam-slides-XsQbqX.png"
+      ]
+      }
+    ]
+  }
+  
