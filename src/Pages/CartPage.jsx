@@ -23,15 +23,15 @@ const CartPage = () => {
         <div className='max-w-4xl mx-auto bg-white p-6 shadow-md rounded-lg'>
           <ul className='space-y-4'>
             {cart.map((product, index) => (
-              <li key={index} className='flex items-center p-4 border border-gray-200 rounded-lg'>
+              <li key={index} className='flex md:items-center flex-col md:flex-row p-4 border border-gray-200 rounded-lg'>
                 <img src={product.images[0]} alt={product.model} className='w-20 h-20 object-cover rounded-md' />
-                <div className='flex-1 ml-4'>
-                  <h2 className='text-2xl md:text-3xl font-semibold text-gray-700'>{product.model}</h2>
+                <div className='flex-1 md:ml-4'>
+                  <h2 className='text-2xl font-semibold text-gray-700'>{product.model}</h2>
                   <p className='text-lg text-gray-500'>${product.price}</p>
                 </div>
                 <button 
                   onClick={() => removeFromCart(product.id)} 
-                  className='flex items-center gap-2 mt-1 bg-zinc-700 text-white px-4 py-2 rounded-md hover:bg-zinc-500 transition'
+                  className='w-[120px] flex items-center gap-2 mt-1 bg-zinc-700 text-white px-4 py-2 rounded-md hover:bg-zinc-500 transition'
                 >
                   Remove 
                   <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className='w-5 h-5'>
