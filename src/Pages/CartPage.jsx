@@ -23,10 +23,10 @@ const CartPage = () => {
         <div className='max-w-4xl mx-auto bg-white p-6 shadow-md rounded-lg'>
           <ul className='space-y-6'>
             {cart.map((product, index) => (
-              <li key={index} className='flex items-center justify-between p-4 border border-gray-200 rounded-lg'>
+              <li key={index} className='flex items-center justify-between flex-wrap p-4 border border-gray-200 rounded-lg'>
                 <img src={product.images[0]} alt={product.model} className='w-20 h-20 object-cover rounded-md' />
                 <div className='flex-1 ml-4'>
-                  <h2 className='text-2xl font-semibold text-gray-700'>{product.model}</h2>
+                  <h2 className='text-md md:text-2xl font-semibold text-gray-700'>{product.model}</h2>
                   <p className='text-lg text-gray-500'>${product.price}</p>
                 </div>
                 <button 
