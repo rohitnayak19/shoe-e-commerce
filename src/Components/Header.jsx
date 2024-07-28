@@ -14,7 +14,6 @@ const Header = ({}) => {
         <div className="logo">
             <NavLink to={'/'}><span className='text-gray-700 text-3xl'>Sole</span><span className='text-gray-500 text-2xl mx-1'>heaven...</span></NavLink>
         </div>
-
         <div className='my-1'>
             <input 
             value={filterProduct} 
