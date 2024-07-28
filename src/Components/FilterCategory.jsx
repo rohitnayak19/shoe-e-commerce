@@ -16,15 +16,15 @@ const FilterCategory = ({products}) => {
       dots: true,
       infinite: true,
       speed: 800,
-      slidesToShow: 3,
+      slidesToShow: 4,
       slidesToScroll: 1,
       
     };
 
   return (
     <>
-      <div className='bg-zinc-200 py-10'>
-      <div className='w-3/4 m-auto px-20'>
+      <div className='bg-zinc-200 py-6'>
+      <div className='m-auto md:w-3/4'>
       <Slider {...settings}>
         {categories.map((categories,index) =>(
           <ShopByCategory categories={categories} key={index}/>

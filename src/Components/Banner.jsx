@@ -14,7 +14,7 @@ const Banner = () => {
 
   return (
     <div style={bannerStyle}>
-      <h1 className='text-white text-xl'>
+      <h1 className='text-white text-sm md:text-xl'>
         🎃 Discover your perfect pair at SoleHeaven with up to 50% 💖
       </h1>
     </div>

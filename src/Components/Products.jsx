@@ -15,12 +15,12 @@ const handleMouseEnter = () =>{
     }
   return (
     <>
-    <div className="ProductsCard w-[330px] cursor-pointer mb-5">
+    <div className="ProductsCard w-[180px] md:w-[300px] cursor-pointer mb-5">
       <img className="rounded-md border solid border-gray-400 transition-transform duration-300 ease-in-out transform hover:scale-105" src={products.images[imageIndex]} alt={products.name} onMouseEnter={handleMouseEnter} 
     onMouseLeave={handleMouseLeave}/>
       <div className="detail">
         <div className="cardFooter">
-          <h2 className='text-xl font-mono mt-1'>{products.model}</h2>
+          <h2 className='text-sm md:text-xl font-mono mt-1'>{products.model}</h2>
           <p className='text-lg font-bold'>${products.price}</p>
           <p className='font-mono'>{products.category}</p>
         </div>

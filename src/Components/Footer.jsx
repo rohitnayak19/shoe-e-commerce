@@ -22,17 +22,8 @@ const Footer = () => {
           <li>
             <NavLink to={'/CartPage'} className="text-gray-400 hover:text-white">Cart</NavLink>
           </li>
-          <li>
-            <NavLink to={'/privacy'} className="text-gray-400 hover:text-white">Privacy Policy</NavLink>
-          </li>
-          <li>
-            <NavLink to={'/terms'} className="text-gray-400 hover:text-white">Terms of Service</NavLink>
-          </li>
-          <li>
-            <NavLink to={'/contact'} className="text-gray-400 hover:text-white">Contact Us</NavLink>
-          </li>
         </ul>
-        <div className="flex gap-4">
+        <div className="flex gap-4 flex-wrap">
           <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white">
             <FacebookIcon />
           </a>

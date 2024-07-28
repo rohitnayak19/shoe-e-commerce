@@ -27,7 +27,7 @@ const ProductDetail = ({products}) => {
 
   return (
     <>
-    <div className='ProductDetailPage extra-margin flex gap-10'>
+    <div className='ProductDetailPage px-3 py-5 flex flex-col md:flex-row md:gap-8 md:w-[60%] md:m-auto'>
       <div className="detailImages flex gap-5">
         <div className="imageCol w-[110px] flex flex-col gap-1 cursor-pointe">
           {product.images.map((images ,index) =>(
