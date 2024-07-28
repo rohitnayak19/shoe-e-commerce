@@ -15,7 +15,7 @@ const handleMouseEnter = () =>{
     }
   return (
     <>
-    <div className="ProductsCard w-[180px] md:w-[300px] cursor-pointer mb-5">
+    <div className="ProductsCard  w-[150px] md:w-[300px] cursor-pointer mb-3">
       <img className="rounded-md border solid border-gray-400 transition-transform duration-300 ease-in-out transform hover:scale-105" src={products.images[imageIndex]} alt={products.name} onMouseEnter={handleMouseEnter} 
     onMouseLeave={handleMouseLeave}/>
       <div className="detail">

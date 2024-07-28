@@ -12,7 +12,7 @@ const Footer = () => {
           <NavLink to={'/'} className="text-white text-2xl mb-2">Sole<span className='text-gray-400'>heaven...</span></NavLink>
           <p className="text-gray-400 text-sm">&copy; 2024 Sole Heaven. All rights reserved.</p>
         </div>
-        <ul className="flex gap-5 text-lg">
+        <ul className="flex gap-3 text-md flex-wrap">
           <li>
             <NavLink to={'/'} className="text-gray-400 hover:text-white">Home</NavLink>
           </li>

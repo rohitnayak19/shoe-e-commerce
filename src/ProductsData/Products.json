@@ -3,7 +3,7 @@
       {
         "id": 1,
         "brand": "Nike",
-        "model": "Air Jordan 1 Low",
+        "model": "Air Jordan 1",
         "category": "Sneakers",
         "price": 120.00,
         "availability": true,
@@ -21,7 +21,7 @@
       {
         "id": 2,
         "brand": "Nike",
-        "model": "Nike Court Royale 2 Low",
+        "model": "Nike Court Royale",
         "category": "Sneakers",
         "price": 110.00,
         "availability": true,
@@ -38,7 +38,7 @@
       },{
         "id": 3,
         "brand": "Nike",
-        "model": "Nike Downshifter 13",
+        "model": "Nike Downshifter",
         "category": "Running",
         "price": 180.00,
         "availability": true,
@@ -56,7 +56,7 @@
       {
         "id": 4,
         "brand": "Nike",
-        "model": "Nike Vaporfly 3",
+        "model": "Nike Vaporfly",
         "category": "Running",
         "price": 140.00,
         "availability": true,
@@ -74,7 +74,7 @@
       {
         "id": 5,
         "brand": "Nike",
-        "model": "Air Jordan 1 Retro High",
+        "model": "Air Jordan 1",
         "category": "Jordan",
         "price": 220.00,
         "availability": true,
@@ -110,7 +110,7 @@
       {
         "id": 7,
         "brand": "Nike",
-        "model": "Nike Metcon 9",
+        "model": "Nike Metcon",
         "category": "Gym and Training",
         "price": 177.00,
         "availability": true,
@@ -128,7 +128,7 @@
       {
         "id": 8,
         "brand": "Nike",
-        "model": "Nike Vaporfly 3",
+        "model": "Nike Vaporfly",
         "category": "Gym and Training",
         "price": 140.00,
         "availability": true,
@@ -146,7 +146,7 @@
       {
         "id": 9,
         "brand": "Nike",
-        "model": "Tatum 2 PF",
+        "model": "Tatum 2PF",
         "category": "Basketball Shoes",
         "price": 108.00,
         "availability": true,
@@ -165,7 +165,7 @@
       {
         "id": 10,
         "brand": "Nike",
-        "model": "Nike G.T. Hustle 3 EP",
+        "model": "Nike G.THustle",
         "category": "Basketball Shoes",
         "price": 99.00,
         "availability": true,
@@ -183,7 +183,7 @@
       {
         "id": 11,
         "brand": "Nike",
-        "model": "Nike Phantom GX 2 Elite",
+        "model": "Nike Phantom",
         "category": "Football",
         "price": 89.00,
         "availability": true,
@@ -201,7 +201,7 @@
       {
         "id": 12,
         "brand": "Nike",
-        "model": "Nike Mercurial Vapor 15 Elite",
+        "model": "Nike Mercurial",
         "category": "Football",
         "price": 76.00,
         "availability": true,

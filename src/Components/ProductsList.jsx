@@ -6,7 +6,7 @@ const ProductsList = ({products}) => {
  
   return (
     <>
-    <div className="ProductList flex justify-evenly flex-wrap items-start">
+    <div className="ProductList flex justify-evenly flex-wrap">
       {firstEightProduct.map((products) =>(
         <Product key={products.id} products={products}/>
       ))}
